@@ -1,0 +1,6 @@
+{
+  "name": "Evans Info Hub",
+  "description": "An interactive, highly animated, and modern cyberpunk-style bio profile for Evan featuring local highscore games, real-time synthesized sound effects, responsive animations, and a floating emoji reactions board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
